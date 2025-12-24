@@ -11,11 +11,20 @@ Sam was most known for the skins he used, and how gatekept they were. By releasi
 info: Used around 2019ish, one of the earliest versions (maybe oldest) of Reshiramu leaked to the public
 
 
-## [- # Reshiramu 'plox' 『レシラム』- FULL # -.osk](https://drive.google.com/file/d/1xjez27Tu6_VmuJxw8-y2T6MDSRn5wVSG/view?usp=sharing)
+## [- # Reshiramu 'plox' 『レシラム』- FULL # -](https://drive.google.com/file/d/1xjez27Tu6_VmuJxw8-y2T6MDSRn5wVSG/view?usp=sharing)
 [![screenshot141](https://github.com/keikiras/userimages/blob/main/reshiramu%20plox.png?raw=true)](https://drive.google.com/file/d/1xjez27Tu6_VmuJxw8-y2T6MDSRn5wVSG/view?usp=sharing)
 info: Predecessor to the most known skin used, 2019 - early 2020 (?) Some assets are a recreation as they weren't leaked to the public
 
 
-## [- # Reshiramu 『レシラム』- FULL # -.osk](https://drive.google.com/file/d/10ZVb1wsz9dDCymkkYT3dVrSp4KB0Q0Og/view?usp=sharing)
+## [- # Reshiramu 『レシラム』- FULL # -](https://drive.google.com/file/d/10ZVb1wsz9dDCymkkYT3dVrSp4KB0Q0Og/view?usp=sharing)
 [![screenshot141](https://github.com/keikiras/userimages/blob/main/Reshiramu2.png?raw=true)](https://drive.google.com/file/d/10ZVb1wsz9dDCymkkYT3dVrSp4KB0Q0Og/view?usp=sharing)
 info: The most known skin used
+
+
+## [- # Inuhiro 『いぬひろ！』 # -](https://drive.google.com/file/d/1ZtZrzkpuoe6mNi1oRsIKcTAQrnmP4-_7/view?usp=sharing)
+[![screenshot141](https://github.com/keikiras/userimages/blob/main/inuhiro.png?raw=true)](https://drive.google.com/file/d/1ZtZrzkpuoe6mNi1oRsIKcTAQrnmP4-_7/view?usp=sharing)
+info: furry skin brah
+
+## [- # Puro 『を変える』  # -](https://drive.google.com/file/d/1QPBfp-S0GYjkW9Ham-NY_RiYJHRDEEa8/view?usp=sharing)
+[![screenshot141](https://github.com/keikiras/userimages/blob/main/puro.png?raw=true)](https://drive.google.com/file/d/1QPBfp-S0GYjkW9Ham-NY_RiYJHRDEEa8/view?usp=sharing)
+info: Created around 2021 for [GS]Diamond 

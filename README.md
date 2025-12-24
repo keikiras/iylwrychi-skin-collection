@@ -47,9 +47,7 @@ info: Created for augie- / reticentfile around early 2023.
 info: Created for Aportlight / Mondor around late 2023. commissioned by zynx with demand from some others, accurate remake.
 
 
-## [MWC 2023 Skin (- # Kushi94 『串』 # -)](https://drive.google.com/file/d/17nfILtUK5CtawaSclympTg1ssHCQ4pGT/view?usp=sharing)
-[![screenshot141](https://github.com/keikiras/userimages/blob/main/MWC%202023.png?raw=true)](https://drive.google.com/file/d/17nfILtUK5CtawaSclympTg1ssHCQ4pGT/view?usp=sharing)
-info: used for mwc 4k 2023, remake but should be just about 1:1 
+
 
 
 

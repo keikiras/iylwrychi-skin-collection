@@ -52,6 +52,6 @@ info: Created for Aportlight / Mondor around late 2023. commissioned by zynx wit
 info: who knows, possibly created by nepijin. still a funny inclusion
 
 
-
+# if you have anything made by iyl that you would like to be publically released (anonymously), dm keikiras on discord or twitter (x)
 
 ![screenshot141](https://github.com/keikiras/userimages/blob/main/osumania%20worse%20than%20epstein.png?raw=true)

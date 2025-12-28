@@ -59,4 +59,4 @@ info: mid 2023 community return (if my memory serves correct), menu-button-bg is
 
 # if you have anything made by iyl that you would like to be publically released (anonymously), dm keikiras on discord or twitter (x)
 
-![screenshot141](https://github.com/keikiras/userimages/blob/main/osumania%20worse%20than%20epstein.png?raw=true)
+[![screenshot141](https://github.com/keikiras/userimages/blob/main/osumania%20worse%20than%20epstein.png?raw=true)](https://drive.google.com/file/d/17nfILtUK5CtawaSclympTg1ssHCQ4pGT/view?usp=sharing)

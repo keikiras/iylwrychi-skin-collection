@@ -52,7 +52,7 @@ info: Created for Aportlight / Mondor around late 2023. commissioned by zynx wit
 info: who knows, possibly created by nepijin. still a funny inclusion
 
 
-## [- # Cafesito 2023 (mwcoptimized?)](https://drive.google.com/file/d/1SM8i0GPeEOXuEh-BfeVVgTeU6ZvWcvJ_/view?usp=sharing)
+## [- # Cafesito 2023 (mwc optimized?)](https://drive.google.com/file/d/1SM8i0GPeEOXuEh-BfeVVgTeU6ZvWcvJ_/view?usp=sharing)
 [![screenshot141](https://github.com/keikiras/userimages/blob/main/cafesito.png?raw=true)](hhttps://drive.google.com/file/d/1SM8i0GPeEOXuEh-BfeVVgTeU6ZvWcvJ_/view?usp=sharing)
 info: mid 2023 community return (if my memory serves correct), menu-button-bg isnt correct but everything else should be. (cred to 331518x)
 

@@ -62,8 +62,8 @@ info: mid 2023 community return (if my memory serves correct), menu-button-bg is
 info: from twitch streams (?).cred to 331518x
 
 
-## [shira (mwc 2023)](https://drive.google.com/file/d/13QzWJL9vTD4CADbTKZLkk-UZXr1_P5-x/view?usp=sharing)
-[![screenshot141](https://github.com/keikiras/userimages/blob/main/MWC%202023.png?raw=true)](https://drive.google.com/file/d/17nfILtUK5CtawaSclympTg1ssHCQ4pGT/view?usp=sharing)
+## [shira (mwc 2023)](https://drive.google.com/file/d/1UfQvz_JGn2I0CLq0Delc97NEjiNBenkb/view?usp=sharing)
+[![screenshot141](https://github.com/keikiras/userimages/blob/main/shira.png?raw=true)](https://drive.google.com/file/d/1UfQvz_JGn2I0CLq0Delc97NEjiNBenkb/view?usp=sharing)
 info: used for mwc 4k 2023, real version (fuck you people trying to gatekeep a remake)
 
 

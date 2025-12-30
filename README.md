@@ -73,7 +73,7 @@ info: possibly made for a recent victim of sam (?) not much known about this one
 
 
 ## [- # Brady Molinariu 『ブレイディ・ローレンス 』- FULL # -](https://drive.google.com/file/d/1MSBBdgBYtM3rbtusvuYv-5nlJ8kdElvA/view?usp=sharing)
-[![screenshot141](\https://github.com/keikiras/userimages/blob/main/BRADY%20MOLINARU.png?raw=true)](https://drive.google.com/file/d/1MSBBdgBYtM3rbtusvuYv-5nlJ8kdElvA/view?usp=sharing)
+[![screenshot141](https://github.com/keikiras/userimages/blob/main/BRADY%20MOLINARU.png?raw=true)](https://drive.google.com/file/d/1MSBBdgBYtM3rbtusvuYv-5nlJ8kdElvA/view?usp=sharing)
 info: yes this is intelzoz LMAOO. hey buddy do you like my skin?
 # if you have anything made by iyl that you would like to be publically released (anonymously), dm keikiras on discord or twitter (x)
 

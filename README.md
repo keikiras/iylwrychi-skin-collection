@@ -68,7 +68,7 @@ info: used for mwc 4k 2023, real version (fuck you people trying to gatekeep a r
 
 
 ## [reshimofu](https://drive.google.com/file/d/1UfQvz_JGn2I0CLq0Delc97NEjiNBenkb/view?usp=sharing)
-[![screenshot141](https://github.com/keikiras/userimages/blob/main/reshimofu.png?raw=true)](https://drive.google.com/file/d/1UfQvz_JGn2I0CLq0Delc97NEjiNBenkb/view?usp=sharing)
+[![screenshot141](https://github.com/keikiras/userimages/blob/main/mofu%202.png?raw=true)](https://drive.google.com/file/d/1UfQvz_JGn2I0CLq0Delc97NEjiNBenkb/view?usp=sharing)
 info: Skin Sam made for himself around 2024.
 
 

@@ -42,9 +42,9 @@ info: Created for a geometry dash player who went by Aridranse / dranse
 info: Created for augie- / reticentfile around early 2023.
 
 
-## [- # Ry_Evein-Comey『科米』 # -](https://drive.google.com/file/d/1jYeX0wEzmjp39M8BH2K7gGvWIn8-ZyDp/view?usp=sharing)
-[![screenshot141](https://github.com/keikiras/userimages/blob/main/comey.png?raw=true)](https://drive.google.com/file/d/1jYeX0wEzmjp39M8BH2K7gGvWIn8-ZyDp/view?usp=sharing)
-info: Created for Aportlight / Mondor around late 2023. commissioned by zynx with demand from some others, accurate remake BESIDES Gameplay.
+## [- # Ry_Evein-Comey『科米』 # -](https://drive.google.com/file/d/1r8CLhnVAOo7D8_LLadKagYOYk7QuTmYo/view?usp=sharing)
+[![screenshot141](https://github.com/keikiras/userimages/blob/main/comey.png?raw=true)](https://drive.google.com/file/d/1r8CLhnVAOo7D8_LLadKagYOYk7QuTmYo/view?usp=sharing)
+info: Created for Aportlight / Mondor around late 2023. Fully remade to be as accurate as possible, link updated.
 
 
 ## [- junimo123](https://drive.google.com/file/d/1yWsYUAnqNgvwm4N11wRzsmHtSb0ae2p6/view?usp=sharing)
